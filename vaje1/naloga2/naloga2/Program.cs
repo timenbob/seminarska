@@ -10,7 +10,7 @@ namespace naloga2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("bla bla bla")
+            Console.WriteLine("bla bla iefhi3qhobla");
         }
     }
 }
